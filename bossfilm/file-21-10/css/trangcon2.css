@@ -1,0 +1,185 @@
+.full-2 {
+    width: 100%;
+}
+
+.chiacot70 {
+    width: 78%;
+    margin: 0 auto;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+/* section 1 */
+
+.cottrai1 {
+    width: 49%;
+    float: left;
+
+}
+
+.m-r-2 {
+    margin-right: 2%;
+}
+
+.m-b-2 {
+    margin-bottom: 30px;
+}
+
+.cotphai {
+    width: 49%;
+    float: left;
+}
+
+.boxanhstion1 {
+    width: 45%;
+    float: left;
+
+}
+
+.banner-ko-opacity:hover {
+    opacity: 1;
+    border: 0;
+}
+
+.boxtexrstion1 {
+    width: 53%;
+    float: left;
+}
+
+.namefilm {
+    color: rgb(29, 133, 15);
+    font-size: 16pt;
+    padding: 25px 0;
+}
+
+.title-film {
+    color: rgb(150, 150, 150);
+    font-size: 10pt;
+    padding-bottom: 10px;
+}
+
+.content-film {
+    color: black;
+    font-size: 10pt;
+}
+
+/* chi de chen menu len 100px */
+.chen-2-menu {
+    width: 100%;
+    height: 100px;
+    color: #000;
+}
+
+/* section2 */
+@media screen and (max-width: 400px) {
+
+
+    .m-b3 {
+        margin-bottom: 50px;
+    }
+
+    .col-left,
+    .col-right,
+    .chiacot70,
+    .cottrai1,
+    .cotphai,
+    .col-footer-l,
+    .col-footer-m,
+    .col-footer-r {
+        width: 98%;
+        margin: 5px 1%;
+    }
+
+    .namefilm,
+    .title-film {
+        padding: 0 0 10px 0;
+    }
+
+    .cotphai,
+    .cottrai1 {
+        margin-bottom: 35px;
+    }
+
+    img {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* menu */
+    #toggle {
+        display: block;
+        line-height: 50px;
+    }
+
+    hr,
+    .chenicon-s,
+    .m-b3 {
+        display: block;
+    }
+
+    hr {
+        color: blanchedalmond;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .fa,
+    .fas {
+        color: rgb(255, 255, 255);
+    }
+
+    .logo {
+        padding-left: 5px;
+        margin-right: 0;
+        width: 90px;
+        line-height: 46px;
+    }
+
+    .fontlogo {
+        font-size: 20pt;
+
+    }
+
+    .bgsearch {
+        width: 150px;
+        margin-right: 40px;
+    }
+
+    .menu-bar,
+    .bgsign,
+    .bgsignin,
+    .bgwhite {
+        display: none;
+    }
+
+    /* chenmenu */
+    .chen-2-menu {
+        height: 50px;
+    }
+
+    /* footer */
+    .col-footer-l,
+    .col-footer-r,
+    .col-footer-m p {
+        text-align: center;
+    }
+
+    p,
+    h2,
+    h3,
+    .font-3cot,
+    .size-chu {
+        font-size: 16px;
+    }
+
+    /* footer {
+      
+
+    }  */
+
+
+
+}

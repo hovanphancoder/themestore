@@ -1,0 +1,25 @@
+@media screen and (max-width: 500px) {
+
+    .menu-dinh {
+        width: 0%;
+        display: none;
+    }
+
+    .full,
+    .bg-b {
+        width: 100%;
+
+    }
+
+    .img5 {
+        width: 500px;
+        height: 250px;
+        margin-bottom: 10px;
+    }
+
+    /* tat ca cac anh */
+    img {
+        width: 100%;
+    }
+
+}

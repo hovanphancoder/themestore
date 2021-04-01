@@ -1,0 +1,495 @@
+body {
+    margin: 0px;
+    font-family: Roboto, "segoe ui", Helvetica, Arial, sans-serif;
+}
+
+.full {
+    width: 100%;
+}
+
+img {
+    border-radius: 2px;
+}
+
+.banner-opacity1 {
+    border-radius: 0;
+}
+
+.banner-opacity1:hover {
+    opacity: 1;
+    border: 0;
+}
+
+.chia12cot {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+
+.floatleft {
+    float: left;
+}
+
+.chenmenu {
+    width: 100%;
+    height: 100px;
+}
+
+/* can giua  */
+.boxcenter {
+    width: 100%;
+    margin: 0px auto;
+}
+
+.fullsearch {
+    width: 100%;
+    height: 30px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+
+
+.chenicon-s {
+    position: absolute;
+    right: 0px;
+    top: 0;
+    bottom: 0;
+    z-index: 999;
+}
+
+.pading-s {
+    padding-left: 20px;
+}
+
+.menu-dinh {
+    width: 100%;
+    height: 100px;
+    position: static;
+    position: fixed;
+    z-index: 999;
+}
+
+
+
+.menu {
+    width: 1180px;
+    line-height: 50px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.pading-menu {
+    padding-right: 20px;
+}
+
+
+
+.bgcot {
+    width: 1180px;
+    min-height: 50px;
+
+
+}
+
+.bgcot2 {
+    width: 1180px;
+    min-height: 50px;
+    background-color: rgb(44, 42, 165);
+
+}
+
+/* menu1 */
+.logo {
+    width: 140px;
+    float: left;
+    line-height: 40px;
+}
+
+
+
+.bgsearch {
+    width: 780px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+.bogoc-s {
+    border: ridge;
+    border-radius: 10px;
+}
+
+.bgsign {
+    width: 80px;
+    line-height: 50px;
+    margin-right: 20px;
+    float: left;
+    text-align: center;
+    text-shadow: 0px 2px 5px yellow;
+}
+
+.bgsignin {
+    width: 80px;
+    line-height: 50px;
+    float: left;
+    text-align: center;
+    text-shadow: 0px 2px 5px yellow;
+
+}
+
+.chenchu {
+    position: absolute;
+    bottom: 0px;
+    left: 20px;
+    color: white;
+    z-index: 10;
+}
+
+.codinhkhung {
+    position: relative;
+    z-index: 10;
+
+}
+
+/* dinh dang the a */
+a {
+
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: rgb(138, 138, 138);
+}
+
+
+.font-white {
+    color: white;
+
+}
+
+.font-black {
+    color: black;
+
+}
+
+
+
+.bgblack {
+    background-color: black;
+    min-height: 50px;
+    width: 100%;
+    height: 50px;
+}
+
+img:hover {
+    border: 1px solid black;
+    box-sizing: border-box;
+    opacity: 0.6;
+    text-shadow: 5px 5px 5px black;
+}
+
+/* transform: rotate(90deg); */
+.nut {
+    float: left;
+}
+
+.bggray {
+    background-color: gray;
+    min-height: 50px;
+    width: 100%
+}
+
+.bgwhite {
+    background-color: white;
+}
+
+.fontlogo {
+    font-size: 30pt;
+
+}
+
+/* 
+.kichthuocsearch {
+    width: 600px;
+    
+    float: left;
+} */
+
+/* .kichthuocnut {
+    float: left;
+    width: 40px;
+
+} */
+
+.textcenter {
+    text-align: center;
+}
+
+.font-menu {
+    font-size: 20px;
+
+}
+
+/* can giua */
+.bgsetion {
+    width: 1180px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+.col-left {
+    width: 580px;
+    height: 380px;
+    float: left;
+    margin-right: 20px;
+}
+
+.line-search {
+    line-height: 46px;
+}
+
+.size-chu {
+    font-size: 16pt;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    color: white;
+}
+
+
+
+.col-right {
+    width: 280px;
+    float: left;
+
+    height: 180px;
+}
+
+.col1 {
+    width: calc(33.3% - 20px);
+    margin-right: 20px;
+
+}
+
+.col2 {
+    width: calc(33.3% - 20px);
+    margin-right: 20px;
+}
+
+
+.col3 {
+    width: 33.3%;
+}
+
+.col4 {
+    width: 280px;
+    float: left;
+    height: 200px;
+}
+
+
+
+.boncot,
+.boncot-cuoi {
+    width: 280px;
+    float: left;
+    height: 200px;
+
+}
+
+.text-left {
+    text-align: left;
+}
+
+.col-footer-l {
+    width: 520px;
+    float: left;
+    height: auto;
+}
+
+.col-footer-m {
+    width: 260px;
+    float: left;
+    height: auto;
+}
+
+.col-footer-r {
+    width: 360px;
+    float: left;
+    height: auto;
+}
+
+
+
+.m-r {
+    margin-right: 20px;
+}
+
+.m-b {
+    margin-bottom: 20px;
+}
+
+.m-b2 {
+    margin-bottom: 80px;
+}
+
+.m-t {
+    margin-top: 20px;
+}
+
+
+.content-p {
+    padding: 10px 20px 10px 20px;
+}
+
+.content-end {
+    padding: 10px 0px 10px 10px;
+}
+
+.bgfooter {
+    width: 100%;
+    background-color: black;
+    height: auto;
+    float: left;
+}
+
+.imgfour {
+    width: 280px;
+    height: 200px;
+}
+
+.h-center-footer {
+    line-height: 100px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.menuchen {
+    width: 100%;
+    margin-top: 100px;
+}
+
+#toggle {
+    display: none;
+}
+
+hr {
+    width: 80%;
+    margin: 0 auto;
+    display: none;
+}
+
+.m-b3 {
+
+    display: none;
+
+}
+
+/* .m-t-h1 {
+    margin-top: 300px;
+}
+
+*/
+
+@media screen and (max-width: 400px) {
+    #toggle {
+        display: block;
+        line-height: 50px;
+    }
+
+    hr,
+    .chenicon-s,
+    .m-b3 {
+        display: block;
+    }
+
+    .m-b3 {
+        margin-bottom: 50px;
+    }
+
+    .bgsearch {
+        width: 150px;
+        margin-right: 40px;
+    }
+
+    .menu-bar,
+    .bgsign,
+    .bgsignin,
+    .bgwhite {
+        display: none;
+    }
+
+    .bg-b,
+    .col-left,
+    .col-right,
+    .col-footer-l,
+    .col-footer-m,
+    .col-footer-r,
+    .bgsetion,
+    .boncot,
+    .chia12cot,
+    .col4,
+    .col1,
+    .col2,
+    .col3,
+    .imgfour {
+        width: 98%;
+        margin: 5px 1%;
+    }
+
+    .m-b2 {
+        margin-bottom: 50px;
+    }
+
+    .fa,
+    .fas {
+        color: rgb(255, 255, 255);
+    }
+
+    .col-left {
+        height: 180px;
+    }
+
+    .col4 {
+        height: 200px;
+    }
+
+    .chenmenu {
+        height: 50px;
+    }
+
+    .col-footer-l,
+    .col-footer-r,
+    .col-footer-m p {
+        text-align: center;
+    }
+
+    p,
+    h2,
+    h3,
+    .font-3cot,
+    .size-chu {
+        font-size: 16px;
+    }
+
+    .fontlogo {
+        font-size: 20pt;
+
+    }
+
+    .logo {
+        width: 90px;
+        line-height: 46px;
+        padding-left: 5px;
+        margin-right: 0;
+    }
+
+}
+
+
+
+
+/* tat ca cac anh */

@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    background-color: rgb(238, 238, 238);
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.full {
+    width: 100%;
+
+}
+
+header {
+    z-index: 999;
+    top: 0;
+}
+
+.box {
+    margin: 20% auto;
+    width: 40%;
+    border-radius: 10px;
+    background-color: rgb(158, 158, 158);
+}
+
+.font-w {
+    color: white;
+}
+
+h1,
+h2 {
+    text-align: center;
+
+}
+
+
+.bg-gray {
+    background-color: rgb(153, 153, 153);
+}
+
+.fullinput {
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+}
+
+input {
+    border-radius: 5px;
+}
+
+table tr th {
+    text-align: left;
+}
+
+.submit {
+    border: ridge;
+    border-radius: 10px;
+    height: 30px;
+    width: 100%;
+    margin: 0 12px;
+    background-color: rgb(111, 189, 151);
+}
+
+.quenmk {
+    text-align: right;
+}
+
+.p-t {
+    padding-top: 20px;
+}
+
+.m-b {
+    margin-bottom: 20px;
+}
+
+a {
+
+    text-decoration: none;
+    color: #000;
+
+}
+
+@media screen and (max-width: 400px) {
+    .box {
+        width: 100%;
+    }
+}

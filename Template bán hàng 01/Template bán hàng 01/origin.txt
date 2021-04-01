@@ -1,0 +1,748 @@
+Uri: http://runecom01.runtime.vn/
+File Name: C:\Users\User\Music\runecom01.runtime.vn\index.htm
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/assets/100001/css/owl.carousel.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/css/jquery.ui.theme.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\css\jquery.ui.theme.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/jquery.ui.touch-punch.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\jquery.ui.touch-punch.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/css/carousel.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\css\carousel.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/css/page-contact-form.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\css\page-contact-form.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helveticaneue.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helveticaneue.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/roboto.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\roboto.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/css/bootstrap.3.3.1.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\css\bootstrap.3.3.1.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/font-awesome.min.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/css/animate.min.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\css\animate.min.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/css/hrv-style.css?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\css\hrv-style.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/css/superfish.css?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\css\superfish.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/assets/100001/css/flexslider.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\css\flexslider.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/gio-hang.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\gio-hang.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/dang-nhap.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\dang-nhap.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/dang-ky.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\dang-ky.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/quen-mat-khau.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\quen-mat-khau.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/trang-chu.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\trang-chu.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/gioi-thieu.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\gioi-thieu.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/tin-tuc.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\tin-tuc.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/lien-he.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\lien-he.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/thoi-trang-15148
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\thoi-trang-15148.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/ao-so-mi-15155
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\ao-so-mi-15155.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/tui-15157
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\tui-15157.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/phu-kien-15159
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\phu-kien-15159.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/ao-15156
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\ao-15156.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/trang-phuc-15158
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\trang-phuc-15158.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/thuc-pham-15149
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\thuc-pham-15149.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/dien-tu-15150
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\dien-tu-15150.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/noi-that-15151
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\noi-that-15151.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/nu-trang-15152
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\nu-trang-15152.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/my-pham-15153
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\my-pham-15153.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/kem-duong-am-15226
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\kem-duong-am-15226.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/son-mong-tay-15228
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\son-mong-tay-15228.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/duong-toc-15230
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\duong-toc-15230.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/son-moi-15227
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\son-moi-15227.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/trang-diem-15229
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\trang-diem-15229.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/qua-tang-15154
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\qua-tang-15154.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/ao-thun-nu-belike.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\ao-thun-nu-belike.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/bikini-bi-ao-lung.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\bikini-bi-ao-lung.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/son-moi-itachi.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\son-moi-itachi.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/mascara-day-va-cong.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\mascara-day-va-cong.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/son-moi-tpa-115.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\son-moi-tpa-115.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/ao-so-mi-nu-vnxk.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\ao-so-mi-nu-vnxk.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/ao-kieu-nu-co-yem.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\ao-kieu-nu-co-yem.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/ao-dai-cach-tan.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\ao-dai-cach-tan.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/ao-thun-nu-love-heart.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\ao-thun-nu-love-heart.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/son-bong-hong.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\son-bong-hong.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/nuoc-lam-trang-da-sg.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\nuoc-lam-trang-da-sg.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/phan-trang-diem-aug.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\phan-trang-diem-aug.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/content/giao-hang-doi-tra.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\content\giao-hang-doi-tra.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/content/chinh-sach-bao-mat.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\content\chinh-sach-bao-mat.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/content/huong-dan-mua-hang.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\content\huong-dan-mua-hang.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/content/huong-dan-thanh-toan.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\content\huong-dan-thanh-toan.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/content/tai-khoan-giao-dich.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\content\tai-khoan-giao-dich.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/jquery.min.1.11.0.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\jquery.min.1.11.0.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/bootstrap.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/option_selection.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\option_selection.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/api.jquery.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\api.jquery.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/scripts.js?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/mobile_menu.js?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\mobile_menu.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/modernizr.custom.js?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/html5shiv.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\html5shiv.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/jquery-migrate-1.2.0.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\jquery-migrate-1.2.0.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/jquery.touchSwipe.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\jquery.touchSwipe.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/fixheightproductv2.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\fixheightproductv2.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/haravan.plugin.1.0.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\haravan.plugin.1.0.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/jquery.flexslider.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\jquery.flexslider.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/owl.carousel.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/classie.js?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\classie.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/mlpushmenu.js?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\mlpushmenu.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/jquery.sticky.js?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\jquery.sticky.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/15-jquery.total-storage.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\15-jquery.total-storage.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/jquery.nivo.slider.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\jquery.nivo.slider.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/jquery.countdown.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\jquery.countdown.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/treemanagement.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\treemanagement.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/image-loaded.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\image-loaded.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/jquery-ui.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/jquery.jcarousel.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\jquery.jcarousel.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/assets/100001/js/addthis_widget.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\js\addthis_widget.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Scripts/common/mycard.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Scripts\common\mycard.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Scripts/lazyLoad/jquery.lazyload.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Scripts\lazyLoad\jquery.lazyload.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Scripts/angularJS/angular.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Scripts\angularJS\angular.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Scripts/angularJS/angular-sanitize.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Scripts\angularJS\angular-sanitize.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Scripts/angular-loading-spinner/spin.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Scripts\angular-loading-spinner\spin.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Scripts/angular-loading-spinner/angular-spinner.min.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Scripts\angular-loading-spinner\angular-spinner.min.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Scripts/angular-loading-spinner/angular-loading-spinner.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Scripts\angular-loading-spinner\angular-loading-spinner.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/appMain.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\appMain.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/directives/directive.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\directives\directive.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/directives/angular-summernote.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\directives\angular-summernote.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/directives/paging.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\directives\paging.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/services/ajaxServices.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\services\ajaxServices.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/services/alertsServices.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\services\alertsServices.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Scripts/common/login.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Scripts\common\login.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/logo.png
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\logo.png
+Content Type: image/png
+
+Uri: http://runecom01.runtime.vn/app/services/moduleServices.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\services\moduleServices.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/controllers/moduleController.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\controllers\moduleController.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/ao-belike1_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\ao-belike1_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/1200_6_451_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\1200_6_451_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/pr23_d88c715b-a920-42e1-613e-7d7ba1317762_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\pr23_d88c715b-a920-42e1-613e-7d7ba1317762_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/pr9_80450716-2b66-4b4b-76ed-5c1534a804fa_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\pr9_80450716-2b66-4b4b-76ed-5c1534a804fa_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/pr10_18fd8cae-14f6-4d70-40b5-5fde4db1df12_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\pr10_18fd8cae-14f6-4d70-40b5-5fde4db1df12_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/banner_home_img.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\banner_home_img.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/ao-somi-2_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\ao-somi-2_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/ao-yem-1_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\ao-yem-1_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/2_44_90_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\2_44_90_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/1200_17_67_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\1200_17_67_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/tabs_1_slider_img_1.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\tabs_1_slider_img_1.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/pr12_6e6ab775-622b-43ae-43c9-08796dd0c9e2_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\pr12_6e6ab775-622b-43ae-43c9-08796dd0c9e2_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/pr8_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\pr8_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/products/pr11_40e951b1-7be3-4f65-4bb8-fc9c1902e6d1_master.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\products\pr11_40e951b1-7be3-4f65-4bb8-fc9c1902e6d1_master.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/Uploads/shop910/images/tabs_2_slider_img_3.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Uploads\shop910\images\tabs_2_slider_img_3.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/assets/100001/img/support_img_1.png?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\img\support_img_1.png
+Content Type: image/png
+
+Uri: http://runecom01.runtime.vn/assets/100001/img/support_img_2.png?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\img\support_img_2.png
+Content Type: image/png
+
+Uri: http://runecom01.runtime.vn/assets/100001/img/support_img_3.png?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\img\support_img_3.png
+Content Type: image/png
+
+Uri: http://runecom01.runtime.vn/assets/100001/img/payment-logo.png?v=5676
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\img\payment-logo.png
+Content Type: image/png
+
+Uri: http://runecom01.runtime.vn/Images/ajax-loader-main.gif
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Images\ajax-loader-main.gif
+Content Type: image/gif
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneueultralight.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneueultralight.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue-ultralight.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue-ultralight.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneueultralightitalic.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneueultralightitalic.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue-ultralightitalic.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue-ultralightitalic.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneuelight.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneuelight.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue-light.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue-light.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneuelightitalic.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneuelightitalic.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue-lightitalic.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue-lightitalic.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneueitalic.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneueitalic.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue-italic.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue-italic.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneuemedium.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneuemedium.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue-medium.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue-medium.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneuebold.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneuebold.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue-bold.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue-bold.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneuebolditalic.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneuebolditalic.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue-bolditalic.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue-bolditalic.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneuecondensedbold.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneuecondensedbold.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue-condensedbold.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue-condensedbold.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneuecondensedblack.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneuecondensedblack.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/helvetica/helveticaneue-condensedblack.otf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\helvetica\helveticaneue-condensedblack.otf
+Content Type: font/otf
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/roboto/roboto-thin.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\roboto\roboto-thin.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/roboto/roboto-thinitalic.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\roboto\roboto-thinitalic.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/roboto/roboto-light.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\roboto\roboto-light.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/roboto/roboto-regular.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\roboto\roboto-regular.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/roboto/roboto-italic.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\roboto\roboto-italic.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/roboto/roboto-medium.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\roboto\roboto-medium.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/roboto/roboto-mediumitalic.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\roboto\roboto-mediumitalic.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/roboto/roboto-bold.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\roboto\roboto-bold.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/roboto/roboto-bolditalic.ttf
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\roboto\roboto-bolditalic.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/fontawesome-webfont.eot?
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\fontawesome-webfont.woff2
+Content Type: application/x-font-woff2
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom01.runtime.vn/assets/100001/font/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\font\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://runecom01.runtime.vn/assets/100001/css/images/image.png
+File Name: C:\Users\User\Music\runecom01.runtime.vn\assets\100001\css\images\image.png
+Content Type: image/png
+
+Uri: http://runecom01.runtime.vn/san-pham/{{item.ProductCode}}.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\{{item.ProductCode}}.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/thanh-toan.html
+File Name: C:\Users\User\Music\runecom01.runtime.vn\thanh-toan.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/app/services/orderServices.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\services\orderServices.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/controllers/orderController.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\controllers\orderController.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/services/accountServices.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\services\accountServices.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/controllers/accountController.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\controllers\accountController.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Captcha.ashx?t=1
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Captcha.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/app/services/contactServices.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\services\contactServices.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/controllers/contactController.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\controllers\contactController.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Images/icon-viber.png
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Images\icon-viber.png
+Content Type: image/png
+
+Uri: http://runecom01.runtime.vn/Images/icon-zalo.png
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Images\icon-zalo.png
+Content Type: image/png
+
+Uri: http://runecom01.runtime.vn/Images/icon-facebook.png
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Images\icon-facebook.png
+Content Type: image/png
+
+Uri: http://runecom01.runtime.vn/san-pham/{{item.Link}}
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\{{item.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/san-pham/{{item.Image}}
+File Name: C:\Users\User\Music\runecom01.runtime.vn\san-pham\{{item-1.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/Images/icon-link-more.jpg
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Images\icon-link-more.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom01.runtime.vn/notfound.html?aspxerrorpath=/{{item.Link}}
+File Name: C:\Users\User\Music\runecom01.runtime.vn\notfound.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/Scripts/smoothproducts/smoothproducts.css
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Scripts\smoothproducts\smoothproducts.css
+Content Type: text/css
+
+Uri: http://runecom01.runtime.vn/Scripts/smoothproducts/smoothproducts.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Scripts\smoothproducts\smoothproducts.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/services/productServices.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\services\productServices.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/app/controllers/productController.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\app\controllers\productController.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/Images/sp-loading.gif
+File Name: C:\Users\User\Music\runecom01.runtime.vn\Images\sp-loading.gif
+Content Type: image/gif
+
+Uri: http://runecom01.runtime.vn/scripts/addthis/addthis_widget.js
+File Name: C:\Users\User\Music\runecom01.runtime.vn\scripts\addthis\addthis_widget.js
+Content Type: application/javascript
+
+Uri: http://runecom01.runtime.vn/notfound.html?aspxerrorpath=/collections/all
+File Name: C:\Users\User\Music\runecom01.runtime.vn\notfound-1.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/notfound.html?aspxerrorpath=/{{item.Image}}
+File Name: C:\Users\User\Music\runecom01.runtime.vn\notfound-2.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/notfound.html?aspxerrorpath=/{{item.Facebook}}
+File Name: C:\Users\User\Music\runecom01.runtime.vn\notfound-3.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/notfound.html?aspxerrorpath=/{{shop.Logo}}
+File Name: C:\Users\User\Music\runecom01.runtime.vn\notfound-4.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/notfound.html?aspxerrorpath=/content/{{item.Facebook}}
+File Name: C:\Users\User\Music\runecom01.runtime.vn\notfound-5.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/notfound.html?aspxerrorpath=/content/{{item.Link}}
+File Name: C:\Users\User\Music\runecom01.runtime.vn\notfound-6.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/notfound.html?aspxerrorpath=/content/{{item.Image}}
+File Name: C:\Users\User\Music\runecom01.runtime.vn\notfound-7.html
+Content Type: text/html
+
+Uri: http://runecom01.runtime.vn/notfound.html?aspxerrorpath=/{{item.ProductImage}}
+File Name: C:\Users\User\Music\runecom01.runtime.vn\notfound-8.html
+Content Type: text/html
+

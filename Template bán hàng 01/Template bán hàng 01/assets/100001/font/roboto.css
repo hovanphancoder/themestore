@@ -1,0 +1,102 @@
+/********************  Begin Roboto *********************/
+/*********** Roboto thin *********/
+@font-face {
+	font-family:'Roboto';
+	font-style: normal;
+	font-weight: 100;
+	src: local('roboto thin'), 
+		local('roboto thin'), 
+		url(roboto/roboto-thin.bin) format('truetype')
+}
+
+/*********** Roboto thin italic *********/
+@font-face {
+	font-family:'Roboto';
+	font-style: italic;
+	font-weight: 100;
+	src: local('roboto thin italic'), 
+		local('roboto thin italic'), 
+		url(roboto/roboto-thinitalic.bin) format('truetype')
+}
+
+/*********** Roboto light *********/
+@font-face {
+	font-family:'Roboto';
+	font-style: normal;
+	font-weight: 300;
+	src: local('roboto light'), 
+		local('roboto light'), 
+		url(roboto/roboto-light.bin) format('truetype')
+}
+
+/*********** Roboto light italic *********/
+@font-face {
+	font-family:'Roboto';
+	font-style: italic;
+	font-weight: 300;
+	src: local('roboto light italic'), 
+		local('roboto light italic'), 
+		url(roboto/roboto-thinitalic.bin) format('truetype')
+}
+
+/*********** Roboto regular *********/
+@font-face {
+	font-family:'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	src: local('roboto regular'), 
+		local('roboto regular'), 
+		url(roboto/roboto-regular.bin) format('truetype')
+}
+
+/*********** Roboto italic *********/
+@font-face {
+	font-family:'Roboto';
+	font-style: italic;
+	font-weight: 400;
+	src: local('roboto italic'), 
+		local('roboto italic'), 
+		url(roboto/roboto-italic.bin) format('truetype')
+}
+
+/*********** Roboto medium *********/
+@font-face {
+	font-family:'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	src: local('roboto medium'), 
+		local('roboto medium'), 
+		url(roboto/roboto-medium.bin) format('truetype')
+}
+
+/*********** Roboto medium italic *********/
+@font-face {
+	font-family:'Roboto';
+	font-style: italic;
+	font-weight: 500;
+	src: local('roboto medium italic'), 
+		local('roboto medium italic'), 
+		url(roboto/roboto-mediumitalic.bin) format('truetype')
+}
+
+/*********** Roboto bold *********/
+@font-face {
+	font-family:'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	src: local('roboto bold'), 
+		local('roboto bold'), 
+		url(roboto/roboto-bold.bin) format('truetype')
+}
+
+/*********** Roboto bold italic *********/
+@font-face {
+	font-family:'Roboto';
+	font-style: italic;
+	font-weight: 700;
+	src: local('roboto bold italic'), 
+		local('roboto bold italic'), 
+		url(roboto/roboto-bolditalic.bin) format('truetype')
+}
+
+/********************  END Roboto font *********************/

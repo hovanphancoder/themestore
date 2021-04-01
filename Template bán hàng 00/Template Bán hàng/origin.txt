@@ -1,0 +1,936 @@
+Uri: http://runecom26.runtime.vn/
+File Name: C:\Users\User\Music\runecom26.runtime.vn\index.htm
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Scripts/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/font-awesome.min.css
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/common.css
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\common.css
+Content Type: text/css
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/animate.css
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\animate.css
+Content Type: text/css
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/jquery-ui.min.css
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\jquery-ui.min.css
+Content Type: text/css
+
+Uri: http://runecom26.runtime.vn/kiem-tra-don-hang.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\kiem-tra-don-hang.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/gio-hang.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\gio-hang.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/dang-nhap.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\dang-nhap.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/dang-ky.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\dang-ky.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/trang-chu.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\trang-chu.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/gioi-thieu.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\gioi-thieu.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/tin-tuc.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\tin-tuc.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/lien-he.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\lien-he.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/thoi-trang-nu-3592
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\thoi-trang-nu-3592.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-thun-nu-3593
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-thun-nu-3593.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-so-mi-nu-3594
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-so-mi-nu-3594.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/vay-nu-3595
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\vay-nu-3595.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/quan-nu-3596
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\quan-nu-3596.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/thoi-trang-nam-3597
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\thoi-trang-nam-3597.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-thun-nam-3598
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-thun-nam-3598.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-so-mi-nam-3599
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-so-mi-nam-3599.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/quan-nam-3600
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\quan-nam-3600.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-khoac-nam-3601
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-khoac-nam-3601.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Scripts/flexSlider/flexslider.css
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\flexSlider\flexslider.css
+Content Type: text/css
+
+Uri: http://runecom26.runtime.vn/Scripts/owl-carousel/owl.carousel.css
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: http://runecom26.runtime.vn/Scripts/owl-carousel/owl.theme.css
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\owl-carousel\owl.theme.css
+Content Type: text/css
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-so-mi-nu-cong-so.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-so-mi-nu-cong-so.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/combo-2-ao-yem-xuan-he.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\combo-2-ao-yem-xuan-he.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/dam-theu-hoa-thanh-lich.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\dam-theu-hoa-thanh-lich.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-so-mi-celio-emabaton-xanh-den-.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-so-mi-celio-emabaton-xanh-den-.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/quan-legging-phoi-chan-vay-day-keo.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\quan-legging-phoi-chan-vay-day-keo.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/combo-2-ao-thun-nu-sac-mau-he-ld001.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\combo-2-ao-thun-nu-sac-mau-he-ld001.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/bo-the-thao-co-gian-tot-summer-hot.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\bo-the-thao-co-gian-tot-summer-hot.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-khoac-nam-nu-dao-pho-spy.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-khoac-nam-nu-dao-pho-spy.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-khoac-da-cao-cap.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-khoac-da-cao-cap.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-so-mi-zara-slim-fit-zsm651.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-so-mi-zara-slim-fit-zsm651.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/bo-the-thao-co-gian-tot-summer-hot-36d.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\bo-the-thao-co-gian-tot-summer-hot-36d.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/content/hoi-dap.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\content\hoi-dap.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/content/tuyen-dung.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\content\tuyen-dung.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/content/huong-dan-thanh-toan.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\content\huong-dan-thanh-toan.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/content/quy-dinh-doi-tra.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\content\quy-dinh-doi-tra.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/content/qui-dinh-thao-luan.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\content\qui-dinh-thao-luan.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/content/chinh-sach-bao-mat.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\content\chinh-sach-bao-mat.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/content/chinh-sach-ban-hang.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\content\chinh-sach-ban-hang.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery/jquery-2.1.4.min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery\jquery-2.1.4.min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery/jquery-migrate-1.2.1.min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery\jquery-migrate-1.2.1.min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/bootstrap/js/bootstrap.min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/jquery-ui.min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/common/fix-height.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\common\fix-height.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/common/common.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\common\common.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/common/jquery.cookie.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\common\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/common/mycard.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\common\mycard.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/lazyLoad/jquery.lazyload.min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\lazyLoad\jquery.lazyload.min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/angularJS/angular.min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\angularJS\angular.min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/angularJS/angular-sanitize.min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\angularJS\angular-sanitize.min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/angular-loading-spinner/spin.min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\angular-loading-spinner\spin.min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/angular-loading-spinner/angular-spinner.min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\angular-loading-spinner\angular-spinner.min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/angular-loading-spinner/angular-loading-spinner.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\angular-loading-spinner\angular-loading-spinner.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/appMain.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\appMain.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/directives/directive.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\directives\directive.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/directives/angular-summernote.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\directives\angular-summernote.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/directives/paging.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\directives\paging.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/services/ajaxServices.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\services\ajaxServices.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/services/alertsServices.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\services\alertsServices.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/common/login.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\common\login.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/adv/logo-black-magenta.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\adv\logo-black-magenta.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/app/services/moduleServices.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\services\moduleServices.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/controllers/moduleController.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\controllers\moduleController.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Scripts/flexSlider/jquery.flexslider-min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\flexSlider\jquery.flexslider-min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/adv/static-main-slide-01.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\adv\static-main-slide-01.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/adv/static-main-slide-02.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\adv\static-main-slide-02.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/adv/static-main-slide-03.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\adv\static-main-slide-03.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/owl-carousel/owl.carousel.min.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/18_2_1.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\18_2_1.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/22.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\22.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/13_2.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\13_2.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/dress7_6aa158b4-6164-42e4-bf2f-d10ba3d00016_large.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\dress7_6aa158b4-6164-42e4-bf2f-d10ba3d00016_large.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/girl_6_4.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\girl_6_4.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/girl_7_3.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\girl_7_3.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/image1xxl.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\image1xxl.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/5_1__2.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\5_1__2.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/dress1_3de0e61c-e9d2-411e-952e-7eb8ee3a4cc3_large.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\dress1_3de0e61c-e9d2-411e-952e-7eb8ee3a4cc3_large.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/dress5_large.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\dress5_large.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/girl_3_2.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\girl_3_2.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Images/ajax-loader-main.gif
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Images\ajax-loader-main.gif
+Content Type: image/gif
+
+Uri: http://runecom26.runtime.vn/Scripts/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://runecom26.runtime.vn/Scripts/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://runecom26.runtime.vn/Scripts/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/x-font-woff2
+
+Uri: http://runecom26.runtime.vn/Scripts/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: application/x-font-woff
+
+Uri: http://runecom26.runtime.vn/Scripts/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\bootstrap\fonts\glyphicons-halflings-regular.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/Scripts/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\fontawesome-webfont.woff2
+Content Type: application/x-font-woff2
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/UVNMuaThu.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\UVNMuaThu.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/iCielBambola.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\iCielBambola.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/iCielBambola.otf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\iCielBambola.otf
+Content Type: font/otf
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/Roboto-Regular.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\Roboto-Regular.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/OpenSans-Regular.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\OpenSans-Regular.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/UVNBaiSau.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\UVNBaiSau.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/UVNBaiSau_R.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\UVNBaiSau_R.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/cour.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\cour.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/courbd.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\courbd.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/couri.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\couri.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/courbi.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\courbi.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/VUNIVER.TTF
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\VUNIVER.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/avantg.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\avantg.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/Vntfap01.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\Vntfap01.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/vnithufap.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\vnithufap.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/UVNHuongQue_R.TTF
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\UVNHuongQue_R.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/App_Themes/Home/fonts/HL-thufap1-Unicode.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\App_Themes\Home\fonts\HL-thufap1-Unicode.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-bg_highlight-soft_100_eeeeee_1x100.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-bg_gloss-wave_35_f6a828_500x100.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-bg_glass_100_f6f6f6_1x400.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-bg_glass_100_fdf5ce_1x400.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-bg_glass_100_fdf5ce_1x400.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-bg_highlight-soft_75_ffe45c_1x100.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-bg_diagonals-thick_18_b81900_40x40.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-icons_222222_256x240.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-icons_ffffff_256x240.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-icons_ef8c08_256x240.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-icons_ef8c08_256x240.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-icons_228ef1_256x240.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-icons_228ef1_256x240.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-icons_ffd27a_256x240.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-icons_ffd27a_256x240.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-bg_diagonals-thick_20_666666_40x40.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Scripts/jQuery-ui/images/ui-bg_flat_10_000000_40x100.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\jQuery-ui\images\ui-bg_flat_10_000000_40x100.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/san-pham/{{item.ProductCode}}.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\{{item.ProductCode}}.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/app/services/orderServices.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\services\orderServices.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/controllers/orderController.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\controllers\orderController.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/thanh-toan.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\thanh-toan.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/quen-mat-khau.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\quen-mat-khau.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/app/services/accountServices.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\services\accountServices.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/controllers/accountController.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\controllers\accountController.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/gioi-thieu/ve-chung-toi.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\gioi-thieu\ve-chung-toi.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/gioi-thieu/linh-vuc-hoat-dong.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\gioi-thieu\linh-vuc-hoat-dong.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-cong-so-tay-bup-sang-trong.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-cong-so-tay-bup-sang-trong.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/combo-2-ao-yem-xuan-he-23.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\combo-2-ao-yem-xuan-he-23.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/combo-2-ao-thun-nu-sac-mau-he.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\combo-2-ao-thun-nu-sac-mau-he.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/quan-jeans-lung-nang-dong.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\quan-jeans-lung-nang-dong.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/dam-co-lo-vintage-bst-he.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\dam-co-lo-vintage-bst-he.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/dam-co-tru-giot-nuoc.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\dam-co-tru-giot-nuoc.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham.html?page=1
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham-1.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham.html?page=2
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham-2.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham.html?page=3
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham-3.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/16.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\16.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/girl_9.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\girl_9.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/28.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\28.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/35.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\35.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/9image1xxl_1_.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\9image1xxl_1_.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/06_hbna50260471_450_10.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\06_hbna50260471_450_10.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/tin-tuc/tin-khuyen-mai
+File Name: C:\Users\User\Music\runecom26.runtime.vn\tin-tuc\tin-khuyen-mai.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/tin-tuc/tin-thi-truong
+File Name: C:\Users\User\Music\runecom26.runtime.vn\tin-tuc\tin-thi-truong.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/tin-tuc/minh-hang-goi-cam-trong-vay-khoet-nguc.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\tin-tuc\minh-hang-goi-cam-trong-vay-khoet-nguc.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/tin-tuc/nhung-goc-khuat-cua-nghe-stylist-cho-sao-hollywood.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\tin-tuc\nhung-goc-khuat-cua-nghe-stylist-cho-sao-hollywood.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/tin-tuc/diẽm-my-9x-gọi-ý-vay-ao-cho-mùa-hè.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\tin-tuc\diẽm-my-9x-gọi-ý-vay-ao-cho-mùa-hè.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/tin-tuc/3-cach-mac-vay-duoc-lang-xe-manh-he-2015.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\tin-tuc\3-cach-mac-vay-duoc-lang-xe-manh-he-2015.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/tin-tuc/nhung-phong-cach-dong-khung-cua-sao-viet.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\tin-tuc\nhung-phong-cach-dong-khung-cua-sao-viet.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/24.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\24.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/dress4_large.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\dress4_large.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/girl.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\girl.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/dress6_8b6f55aa-b4c1-41cd-9e91-44f29069fec5_large.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\dress6_8b6f55aa-b4c1-41cd-9e91-44f29069fec5_large.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/image1xxl_1_.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\image1xxl_1_.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/app/services/contactServices.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\services\contactServices.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/controllers/contactController.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\controllers\contactController.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Images/icon-viber.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Images\icon-viber.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Images/icon-zalo.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Images\icon-zalo.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/Images/icon-facebook.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Images\icon-facebook.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/san-pham/so-mi-nam-dai-tay-techbox-xanh-phoi-soc-.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\so-mi-nam-dai-tay-techbox-xanh-phoi-soc-.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-voan-caro-canh-doi.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-voan-caro-canh-doi.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-thun-nam-co-tru-phoi-mau.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-thun-nam-co-tru-phoi-mau.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/quan-short-nam-kaki-mau-xanh-reu.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\quan-short-nam-kaki-mau-xanh-reu.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/thoi-trang-nu-3592?page=1
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\thoi-trang-nu-3592-1.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/thoi-trang-nu-3592?page=2
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\thoi-trang-nu-3592-2.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/{{item.Link}}
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\{{item.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/dress6_8b6f55aa-b4c1-41cd-9e91-44f29069fec5_large (1).jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\dress6_8b6f55aa-b4c1-41cd-9e91-44f29069fec5_large (1).jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/20_1_1_1.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\20_1_1_1.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/5image1xxl_1_.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\5image1xxl_1_.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/girl12_1.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\girl12_1.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-cong-so-tay-bup-sang-trong-c4d.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-cong-so-tay-bup-sang-trong-c4d.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/quan-legging-phoi-chan-vay-day-keo-ks1.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\quan-legging-phoi-chan-vay-day-keo-ks1.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Images/icon-link-more.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Images\icon-link-more.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/product-15-500x717.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\product-15-500x717.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/san-pham/quan-short-jeans-nam-fashion.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\quan-short-jeans-nam-fashion.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/quan-jeans-xuat-khau-tre-trung-28013-1-1.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\quan-jeans-xuat-khau-tre-trung-28013-1-1.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-khoac-nam-nu-dao-pho-spy-234.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-khoac-nam-nu-dao-pho-spy-234.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/girl5.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\girl5.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/2image1xxl_1__2.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\2image1xxl_1__2.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/skirt5_large.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\skirt5_large.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/san-pham/dam-co-lo-vintage-bst-he-iuw.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\dam-co-lo-vintage-bst-he-iuw.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/dam-co-tru-giot-nuoc-asd1.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\dam-co-tru-giot-nuoc-asd1.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/skirt2_large.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\skirt2_large.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/skirt3_large.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\skirt3_large.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-so-mi-nu-cong-so-po1.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-so-mi-nu-cong-so-po1.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/image1xxl_2_.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\image1xxl_2_.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-khoac-da-nam-co-tron.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-khoac-da-nam-co-tron.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/quan-short-nam-kaki-cao-cap-l-018.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\quan-short-nam-kaki-cao-cap-l-018.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/quan-jeans-lung-nang-dong-ko12.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\quan-jeans-lung-nang-dong-ko12.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/thoi-trang-nam-3597?page=1
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\thoi-trang-nam-3597-1.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/san-pham/thoi-trang-nam-3597?page=2
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\thoi-trang-nam-3597-2.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/girl3_1.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\girl3_1.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/product-16-500x717.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\product-16-500x717.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/san-pham/dam-theu-hoa-thanh-lich-2435345.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\dam-theu-hoa-thanh-lich-2435345.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/girl_4_3.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\girl_4_3.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/san-pham/ao-so-mi-zara-slim-fit-zsm651-xanh-1.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\ao-so-mi-zara-slim-fit-zsm651-xanh-1.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Uploads/shop150/images/product/skirt7_large.jpg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Uploads\shop150\images\product\skirt7_large.jpg
+Content Type: image/jpeg
+
+Uri: http://runecom26.runtime.vn/Scripts/flexSlider/fonts/flexslider-icon.eot
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\flexSlider\fonts\flexslider-icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://runecom26.runtime.vn/Scripts/flexSlider/fonts/flexslider-icon.eot?
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\flexSlider\fonts\flexslider-icon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://runecom26.runtime.vn/Scripts/flexSlider/fonts/flexslider-icon.woff
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\flexSlider\fonts\flexslider-icon.woff
+Content Type: application/x-font-woff
+
+Uri: http://runecom26.runtime.vn/Scripts/flexSlider/fonts/flexslider-icon.ttf
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\flexSlider\fonts\flexslider-icon.bin
+Content Type: application/octet-stream
+
+Uri: http://runecom26.runtime.vn/Scripts/flexSlider/fonts/flexslider-icon.svg
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\flexSlider\fonts\flexslider-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://runecom26.runtime.vn/Scripts/flexSlider/Images/bg_direction_nav.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\flexSlider\Images\bg_direction_nav.png
+Content Type: image/png
+
+Uri: http://runecom26.runtime.vn/notfound.html?aspxerrorpath=/{{item.Link}}
+File Name: C:\Users\User\Music\runecom26.runtime.vn\notfound.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/ban-do.html
+File Name: C:\Users\User\Music\runecom26.runtime.vn\ban-do.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Scripts/smoothproducts/smoothproducts.css
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\smoothproducts\smoothproducts.css
+Content Type: text/css
+
+Uri: http://runecom26.runtime.vn/san-pham/{{item.Image}}
+File Name: C:\Users\User\Music\runecom26.runtime.vn\san-pham\{{item-1.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Scripts/smoothproducts/smoothproducts.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Scripts\smoothproducts\smoothproducts.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/services/productServices.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\services\productServices.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/app/controllers/productController.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\app\controllers\productController.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/Images/sp-loading.gif
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Images\sp-loading.gif
+Content Type: image/gif
+
+Uri: http://runecom26.runtime.vn/scripts/addthis/addthis_widget.js
+File Name: C:\Users\User\Music\runecom26.runtime.vn\scripts\addthis\addthis_widget.js
+Content Type: application/javascript
+
+Uri: http://runecom26.runtime.vn/notfound.html?aspxerrorpath=/{{item.ProductImage}}
+File Name: C:\Users\User\Music\runecom26.runtime.vn\notfound-1.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/Captcha.ashx?t=1
+File Name: C:\Users\User\Music\runecom26.runtime.vn\Captcha.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/tin-tuc/{{item.Link}}
+File Name: C:\Users\User\Music\runecom26.runtime.vn\tin-tuc\{{item.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/notfound.html?aspxerrorpath=/{{item.Facebook}}
+File Name: C:\Users\User\Music\runecom26.runtime.vn\notfound-2.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/notfound.html?aspxerrorpath=/{{shop.Logo}}
+File Name: C:\Users\User\Music\runecom26.runtime.vn\notfound-3.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/notfound.html?aspxerrorpath=/Scripts/owl-carousel/grabbing.png
+File Name: C:\Users\User\Music\runecom26.runtime.vn\notfound-4.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/notfound.html?aspxerrorpath=/Scripts/owl-carousel/AjaxLoader.gif
+File Name: C:\Users\User\Music\runecom26.runtime.vn\notfound-5.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/notfound.html?aspxerrorpath=/content/{{item.Facebook}}
+File Name: C:\Users\User\Music\runecom26.runtime.vn\notfound-6.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/notfound.html?aspxerrorpath=/content/{{item.Link}}
+File Name: C:\Users\User\Music\runecom26.runtime.vn\notfound-7.html
+Content Type: text/html
+
+Uri: http://runecom26.runtime.vn/notfound.html?aspxerrorpath=/gioi-thieu/{{item.Link}}
+File Name: C:\Users\User\Music\runecom26.runtime.vn\notfound-8.html
+Content Type: text/html
+
